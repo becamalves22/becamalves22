@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonn-lima/)
 
 ![Marlon Lima GitHub status](https://github-readme-stats.vercel.app/api?username=MarlonnLima&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonnLima&layout=compact&bg_color=141321)](#)
 
 
 ## Tecnologias que eu utilizo
@@ -20,7 +21,6 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonnLima&layout=compact)](#)
 
 <!--
 **MarlonnLima/MarlonnLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
