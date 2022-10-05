@@ -2,12 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonn-lima/)
 
-![Marlon Lima GitHub status](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonnLima&layout=compact&bg_color=141321)](#)
-
-
 ## Tecnologias que eu utilizo
 <div style="display: inline_block"><br>
 <img alt = "html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
