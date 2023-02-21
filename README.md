@@ -32,9 +32,10 @@
 <img alt = "firebase" src ="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 
 </div>
-
+<div style = "display: inline-block">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **MarlonnLima/MarlonnLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
