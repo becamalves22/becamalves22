@@ -15,16 +15,10 @@
 
 </div>
 
-
-## Estudando
-<div style="display: inline_block"><br>
-  <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-</div>
-
 ## Tecnologias que tenho interesse
 <div style="display: inline_block"><br>
 <img alt = "laravel" src ="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img alt = "node" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img alt = ".net" src ="https://res.cloudinary.com/practicaldev/image/fetch/s--RKHCWMhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/.NET-5C2D91%3Fstyle%3Dfor-the-badge%26logo%3D.net%26logoColor%3Dwhite">
 
 </div>
 
