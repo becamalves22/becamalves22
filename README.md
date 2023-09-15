@@ -1,7 +1,7 @@
-### Olá! Eu sou o <code>Marlon Lima</code> prazer👋 
+### Olá! Eu sou a <code>Rebeca Alves</code> prazer👋 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonn-lima/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-alves-266128280/|)
 
 ## Tecnologias que eu utilizo
 <div style="display: inline_block"><br>
@@ -24,8 +24,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonnLima&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonnLima&layout=compact&theme=dracula)](https://github.com/MarlonnLima/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becamalves22&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becamalves22&layout=compact&theme=dracula)](https://github.com/MarlonnLima/github-readme-stats)
 <!--
 **MarlonnLima/MarlonnLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
